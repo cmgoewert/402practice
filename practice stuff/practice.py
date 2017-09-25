@@ -2,7 +2,8 @@ import wave, struct, librosa
 
 print("Starting analysis...")
 
-#this part uses librosa
+
+#this part uses librosa stuff
 audio, sampleRate = librosa.load('Snare-1.wav');
 print(audio)
 print(sampleRate)
