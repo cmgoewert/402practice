@@ -3,7 +3,7 @@ import librosa
 import numpy as np
 
 
-cymbal_names = (glob.glob("C:/Users/lap55/Documents/Tech Stuff/402practice/train_cymbals/*.wav"))
+cymbal_names = (glob.glob(" 402practice/train_cymbals/*.wav"))
 # print(cymbal_names)
 
 cymbal_length = len(cymbal_names)

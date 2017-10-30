@@ -9,7 +9,7 @@ import time
 print("Starting...")
 start = time.time()
 
-y, sr = librosa.load('starships_nicki_manaj.wav', duration=120)
+y, sr = librosa.load('The_Cranberries_-Zombie_Acoustic_Cover_.wav', duration=120)
 
 S_full, phase = librosa.magphase(librosa.stft(y))
 
