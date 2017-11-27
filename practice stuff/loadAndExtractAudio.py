@@ -44,3 +44,10 @@ def parse_audio_files(parent_dir,sub_dirs,file_ext='*.wav'):
             features = np.vstack([features,ext_features])
             labels = np.append(labels, fn.split('-')[1].split('.')[0])
     return np.array(features), np.array(labels, dtype = np.int)
+
+def condenseLabels(labels):
+    n_labels = len(labels)
+    n_unique_labels = len(np.unique(labels))
+    one_hot_encode = np.zeros((n_labels,n_unique_labels))
+    one_hot_encode[np.arange(n_labels), labels] = 1
+    return one_hot_encode
