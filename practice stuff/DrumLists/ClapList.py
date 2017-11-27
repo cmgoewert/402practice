@@ -4,7 +4,7 @@ import numpy as np
 
 
 clap_names = (glob.glob("C:/Users/lap55/Documents/Tech Stuff/402practice/train_claps/*.wav"))
-# print(clap_names)
+print(clap_names)
 
 clap_length = len(clap_names)
 # print(clap_length)

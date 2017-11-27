@@ -40,6 +40,7 @@ mask_v = librosa.util.softmask(S_full - S_filter,
 S_foreground = mask_v * S_full
 S_background = mask_i * S_full
 
+
 plt.figure(figsize=(12, 8))
 plt.subplot(3, 1, 1)
 librosa.display.specshow(librosa.amplitude_to_db(S_full[:, idx], ref=np.max),
@@ -47,8 +48,8 @@ librosa.display.specshow(librosa.amplitude_to_db(S_full[:, idx], ref=np.max),
 plt.title('Full spectrum')
 plt.colorbar()
 
-librosa.output.write_wav('foreground.wav', librosa.istft(S_foreground * phase), sr)
-librosa.output.write_wav('background.wav', librosa.istft(S_background * phase), sr)
+# librosa.output.write_wav('acoustic_foreground.wav', librosa.istft(S_foreground * phase), sr)
+# librosa.output.write_wav('acoustic_background.wav', librosa.istft(S_background * phase), sr)
 
 plt.subplot(3, 1, 2)
 librosa.display.specshow(librosa.amplitude_to_db(S_background[:, idx], ref=np.max),
