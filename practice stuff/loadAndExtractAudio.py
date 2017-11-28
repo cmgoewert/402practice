@@ -10,10 +10,10 @@ def extract_feature(file_name):
     print(file_name)
     X, sample_rate = librosa.load(file_name)
 
-    #compute spectral centroid
-    cent = np.mean(librosa.feature.spectral_centroid(y=X, sr=sample_rate).T,axis=0)
-    print("Spectral Centroid:")
-    print(cent)
+    # #compute spectral centroid
+    # cent = np.mean(librosa.feature.spectral_centroid(y=X, sr=sample_rate).T,axis=0)
+    # print("Spectral Centroid:")
+    # print(cent)
 
     #compute spectral contrast
     S = np.abs(librosa.stft(X))
@@ -32,25 +32,25 @@ def extract_feature(file_name):
     print("RMS energy spectrogram:")
     print(rmsSpectrogram)
 
-    #compute Mel frequency ceptral coefficients
-    mfccs = np.mean(librosa.feature.mfcc(y=X, sr=sample_rate, n_mfcc=40).T, axis=0)
-    print("MFCC:")
-    print(mfccs)
+    # #compute Mel frequency ceptral coefficients
+    # mfccs = np.mean(librosa.feature.mfcc(y=X, sr=sample_rate, n_mfcc=40).T, axis=0)
+    # print("MFCC:")
+    # print(mfccs)
 
     #compute mel spectrogram
     mel = np.mean(librosa.feature.melspectrogram(X, sr=sample_rate).T, axis=0)
     print("Mel spectrogram:")
     print(mel)
 
-    return cent,contrast,rmsTimeSeries,rmsSpectrogram,mfccs,mel
+    return contrast,rmsTimeSeries,rmsSpectrogram,mel
 
 def parse_audio_files(parent_dir,sub_dirs,file_ext='*.wav'):
-    features, labels = np.empty((0,178)), np.empty(0)
+    features, labels = np.empty((0,137)), np.empty(0)
     for label, sub_dir in enumerate(sub_dirs):
         for fn in glob.glob(os.path.join(parent_dir, sub_dir, file_ext)):
             print("file found:")
-            cent, contrast, rmsTimeSeries, rmsSpectrogram,mfccs,mel = extract_feature(fn)
-            ext_features = np.hstack([cent,contrast,rmsTimeSeries,rmsSpectrogram,mfccs,mel])
+            contrast, rmsTimeSeries, rmsSpectrogram,mel = extract_feature(fn)
+            ext_features = np.hstack([contrast,rmsTimeSeries,rmsSpectrogram,mel])
             print(ext_features.size);
             features = np.vstack([features,ext_features])
             labels = np.append(labels, fn.split('-')[1].split('.')[0])
