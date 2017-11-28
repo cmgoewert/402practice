@@ -20,11 +20,11 @@ ts_labels = condenseLabels(ts_labels)
 
 
 #tensorflow
-training_epochs = 2
+training_epochs = 100
 n_dim = tr_features.shape[1]
 n_classes = 4
-n_hidden_units_one = 280
-n_hidden_units_two = 300
+n_hidden_units_one = 100
+n_hidden_units_two = 150
 sd = 1 / np.sqrt(n_dim)
 learning_rate = 0.01
 
@@ -45,7 +45,7 @@ W = tf.Variable(tf.random_normal([n_hidden_units_two,n_classes], mean = 0, stdde
 b = tf.Variable(tf.random_normal([n_classes], mean = 0, stddev=sd))
 y_ = tf.nn.softmax(tf.matmul(h_2,W) + b)
 
-init = tf.initialize_all_variables()
+init = tf.global_variables_initializer()
 
 cost_function = -tf.reduce_sum(Y * tf.log(y_))
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost_function)
@@ -63,12 +63,12 @@ with tf.Session() as sess:
 
     y_pred = sess.run(tf.argmax(y_, 1), feed_dict={X: ts_features})
     y_true = sess.run(tf.argmax(ts_labels, 1))
-    print('Test accuracy: ', round(session.run(accuracy, feed_dict={X: ts_features, Y: ts_labels}), 3))
+    print('Test accuracy: ', round(sess.run(accuracy, feed_dict={X: ts_features, Y: ts_labels}), 3))
 
-fig = plt.figure(figsize=(10, 8))
-plt.plot(cost_history)
-plt.axis([0, training_epochs, 0, np.max(cost_history)])
-plt.show()
+# fig = plt.figure(figsize=(10, 8))
+# plt.plot(cost_history)
+# plt.axis([0, training_epochs, 0, np.max(cost_history)])
+# plt.show()
 
-p, r, f, s = precision_recall_fscore_support(y_true, y_pred, average='micro')
-print ("F-Score:", round(f, 3))
+# p, r, f, s = precision_recall_fscore_support(y_true, y_pred, average='micro')
+# print ("F-Score:", round(f, 3))
