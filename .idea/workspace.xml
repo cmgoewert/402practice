@@ -1,583 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c62a2230-f969-4cf7-8571-80d87f4179f9" name="Default" comment="Updated drum names with enumeration">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap0-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap1-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap10-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap100-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap101-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap102-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap103-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap104-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap105-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap106-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap107-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap108-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap109-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap11-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap110-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap111-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap112-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap113-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap114-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap115-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap116-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap117-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap118-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap119-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap12-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap120-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap121-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap122-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap123-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap124-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap125-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap126-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap127-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap128-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap129-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap13-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap130-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap131-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap132-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap133-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap134-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap135-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap136-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap137-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap138-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap139-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap14-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap140-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap141-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap142-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap143-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap144-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap145-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap146-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap147-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap148-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap149-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap15-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap150-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap151-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap152-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap153-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap154-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap155-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap156-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap157-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap158-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap159-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap16-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap160-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap161-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap162-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap163-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap164-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap165-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap166-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap167-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap168-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap169-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap17-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap170-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap171-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap172-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap173-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap174-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap175-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap176-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap177-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap18-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap19-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap2-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap20-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap21-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap22-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap23-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap24-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap25-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap26-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap27-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap28-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap29-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap3-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap30-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap31-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap32-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap33-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap34-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap35-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap36-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap37-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap38-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap39-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap4-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap40-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap41-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap42-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap43-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap44-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap45-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap46-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap47-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap48-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap49-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap5-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap50-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap51-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap52-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap53-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap54-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap55-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap56-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap57-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap58-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap59-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap6-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap60-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap61-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap62-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap63-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap64-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap65-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap66-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap67-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap68-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap69-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap7-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap70-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap71-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap72-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap73-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap74-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap75-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap76-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap77-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap78-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap79-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap8-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap80-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap81-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap82-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap83-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap84-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap85-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap86-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap87-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap88-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap89-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap9-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap90-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap91-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap92-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap93-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap94-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap95-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap96-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap97-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap98-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_claps/clap99-1.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal0-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal1-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal10-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal100-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal101-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal102-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal103-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal104-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal105-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal106-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal107-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal108-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal109-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal11-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal110-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal111-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal112-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal113-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal114-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal115-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal116-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal117-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal118-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal119-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal12-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal120-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal121-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal122-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal123-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal124-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal125-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal126-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal127-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal128-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal129-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal13-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal130-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal131-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal132-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal133-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal134-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal135-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal136-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal137-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal138-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal139-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal14-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal140-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal141-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal142-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal143-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal144-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal145-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal146-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal15-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal16-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal17-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal18-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal19-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal2-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal20-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal21-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal22-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal23-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal24-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal25-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal26-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal27-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal28-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal29-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal3-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal30-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal31-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal32-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal33-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal34-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal35-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal36-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal37-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal38-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal39-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal4-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal40-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal41-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal42-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal43-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal44-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal45-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal46-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal47-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal48-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal49-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal5-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal50-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal51-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal52-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal53-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal54-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal55-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal56-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal57-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal58-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal59-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal6-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal60-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal61-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal62-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal63-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal64-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal65-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal66-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal67-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal68-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal69-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal7-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal70-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal71-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal72-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal73-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal74-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal75-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal76-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal77-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal78-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal79-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal8-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal80-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal81-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal82-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal83-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal84-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal85-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal86-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal87-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal88-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal89-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal9-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal90-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal91-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal92-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal93-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal94-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal95-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal96-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal97-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal98-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal99-4.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick0-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick1-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick10-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick100-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick101-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick102-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick103-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick104-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick105-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick106-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick107-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick108-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick109-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick11-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick110-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick111-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick112-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick113-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick114-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick115-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick116-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick117-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick118-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick119-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick12-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick120-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick121-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick122-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick123-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick124-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick125-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick126-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick13-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick14-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick15-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick16-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick17-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick18-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick19-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick2-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick20-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick21-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick22-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick23-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick24-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick25-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick26-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick27-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick28-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick29-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick3-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick30-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick31-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick32-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick33-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick34-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick35-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick36-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick37-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick38-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick39-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick4-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick40-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick41-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick42-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick43-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick44-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick45-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick46-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick47-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick48-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick49-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick5-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick50-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick51-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick52-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick53-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick54-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick55-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick56-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick57-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick58-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick59-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick6-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick60-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick61-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick62-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick63-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick64-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick65-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick66-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick67-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick68-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick69-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick7-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick70-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick71-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick72-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick73-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick74-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick75-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick76-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick77-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick78-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick79-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick8-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick80-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick81-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick82-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick83-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick84-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick85-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick86-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick87-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick88-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick89-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick9-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick90-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick91-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick92-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick93-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick94-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick95-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick96-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick97-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick98-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_kicks/kick99-2.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare0-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare1-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare10-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare100-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare101-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare102-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare103-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare104-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare105-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare106-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare107-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare108-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare109-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare11-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare110-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare111-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare112-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare113-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare114-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare115-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare116-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare117-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare118-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare119-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare12-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare120-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare121-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare122-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare123-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare13-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare14-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare15-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare16-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare17-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare18-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare19-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare2-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare20-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare21-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare22-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare23-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare24-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare25-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare26-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare27-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare29-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare3-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare30-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare31-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare32-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare33-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare34-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare35-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare36-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare37-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare38-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare39-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare4-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare40-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare41-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare42-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare43-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare44-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare45-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare46-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare47-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare48-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare49-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare5-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare50-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare51-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare52-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare53-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare54-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare55-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare56-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare57-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare58-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare59-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare6-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare60-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare61-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare62-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare63-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare64-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare65-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare66-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare67-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare68-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare69-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare7-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare70-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare71-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare72-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare73-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare74-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare75-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare76-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare77-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare78-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare79-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare8-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare80-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare81-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare82-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare83-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare84-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare85-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare86-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare87-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare88-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare89-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare9-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare90-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare91-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare92-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare93-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare94-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare95-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare96-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare97-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare98-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare99-3.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_snares/snare28-3.wav" />
+    <list default="true" id="c62a2230-f969-4cf7-8571-80d87f4179f9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal0-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal1-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal10-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal100-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal101-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal102-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal103-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal104-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal105-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal106-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal107-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal108-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal109-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal11-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal110-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal111-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal112-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal113-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal114-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal115-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal116-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal117-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal118-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal119-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal12-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal120-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal121-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal122-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal123-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal124-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal125-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal126-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal127-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal128-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal129-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal13-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal130-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal131-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal132-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal133-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal134-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal135-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal136-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal137-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal138-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal139-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal14-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal140-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal141-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal142-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal143-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal144-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal145-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal146-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal15-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal16-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal17-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal18-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal19-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal2-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal20-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal21-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal22-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal23-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal24-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal25-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal26-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal27-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal28-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal29-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal3-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal30-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal31-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal32-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal33-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal34-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal35-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal36-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal37-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal38-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal39-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal4-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal40-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal41-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal42-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal43-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal44-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal45-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal46-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal47-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal48-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal49-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal5-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal50-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal51-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal52-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal53-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal54-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal55-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal56-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal57-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal58-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal59-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal6-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal60-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal61-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal62-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal63-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal64-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal65-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal66-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal67-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal68-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal69-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal7-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal70-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal71-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal72-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal73-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal74-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal75-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal76-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal77-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal78-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal79-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal8-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal80-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal81-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal82-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal83-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal84-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal85-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal86-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal87-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal88-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal89-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal9-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal90-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal91-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal92-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal93-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal94-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal95-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal96-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal97-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal98-0.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train_cymbals/cymbal99-0.wav" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -609,8 +180,8 @@
       <file leaf-file-name="spectralCentroids.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice stuff/spectralCentroids.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="800">
+              <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -620,7 +191,7 @@
         <entry file="file://$PROJECT_DIR$/practice stuff/SoundAnalysisGUI.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -632,7 +203,7 @@
         <entry file="file://$PROJECT_DIR$/practice stuff/vocalSeperation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1080">
-              <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+              <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -656,7 +227,7 @@
         <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/KickList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2120">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -668,7 +239,7 @@
         <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/SnareList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="800">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -679,9 +250,11 @@
       <file leaf-file-name="ClapList.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/ClapList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="479">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -690,7 +263,7 @@
         <entry file="file://$PROJECT_DIR$/practice stuff/featureExtracter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1000">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -782,6 +355,11 @@
               <item name="practice stuff" type="462c0819:PsiDirectoryNode" />
               <item name="DrumLists" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="402practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="402practice" type="462c0819:PsiDirectoryNode" />
+              <item name="train_cymbals" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -797,6 +375,1248 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lap55\Documents\402practice" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/task.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/loadAndExtractAudio.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap140-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap141-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap142-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap143-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap144-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap145-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap146-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap147-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap148-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap149-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap150-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap151-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap152-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap153-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap154-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap155-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap156-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/clap157-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal125-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal126-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal127-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal128-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal129-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal130-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal131-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal132-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal133-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal134-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal135-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal136-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal137-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal138-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal139-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal140-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal141-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal142-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal143-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal144-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal145-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/cymbal146-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick100-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick101-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick102-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick103-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick104-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick105-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick106-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick107-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick108-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick109-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick110-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick111-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick112-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick113-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick114-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick115-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick116-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick117-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick118-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick119-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick120-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick121-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick122-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick123-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick124-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick125-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick126-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick93-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick94-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick95-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick96-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick97-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick98-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/kick99-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare100-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare101-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare102-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare103-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare104-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare105-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare106-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare107-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare108-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare109-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare110-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare111-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare112-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare113-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare114-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare115-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare116-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare117-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare118-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare119-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare120-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare121-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare122-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare123-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare81-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare82-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare83-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare84-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare85-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare86-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare87-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare88-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare89-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare90-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare91-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare92-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare93-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare94-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare95-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare96-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare97-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare98-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/test/snare99-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap0-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap1-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap10-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap100-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap101-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap102-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap103-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap104-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap105-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap106-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap107-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap108-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap109-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap11-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap110-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap111-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap112-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap113-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap114-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap115-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap116-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap117-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap118-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap119-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap12-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap120-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap121-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap122-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap123-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap124-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap125-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap126-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap127-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap128-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap129-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap13-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap130-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap131-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap132-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap133-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap134-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap135-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap136-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap137-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap138-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap139-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap14-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap15-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap16-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap17-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap18-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap19-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap2-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap20-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap21-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap22-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap23-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap24-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap25-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap26-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap27-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap28-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap29-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap3-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap30-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap31-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap32-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap33-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap34-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap35-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap36-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap37-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap38-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap39-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap4-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap40-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap41-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap42-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap43-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap44-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap45-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap46-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap47-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap48-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap49-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap5-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap50-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap51-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap52-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap53-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap54-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap55-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap56-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap57-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap58-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap59-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap6-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap60-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap61-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap62-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap63-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap64-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap65-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap66-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap67-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap68-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap69-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap7-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap70-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap71-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap72-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap73-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap74-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap75-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap76-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap77-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap78-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap79-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap8-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap80-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap81-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap82-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap83-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap84-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap85-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap86-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap87-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap88-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap89-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap9-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap90-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap91-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap92-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap93-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap94-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap95-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap96-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap97-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap98-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/clap99-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal0-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal1-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal10-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal100-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal101-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal102-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal103-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal104-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal105-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal106-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal107-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal108-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal109-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal11-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal110-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal111-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal112-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal113-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal114-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal115-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal116-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal117-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal118-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal119-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal12-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal120-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal121-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal122-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal123-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal124-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal13-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal14-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal15-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal16-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal17-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal18-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal19-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal2-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal20-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal21-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal22-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal23-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal24-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal25-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal26-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal27-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal28-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal29-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal3-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal30-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal31-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal32-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal33-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal34-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal35-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal36-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal37-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal38-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal39-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal4-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal40-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal41-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal42-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal43-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal44-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal45-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal46-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal47-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal48-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal49-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal5-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal50-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal51-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal52-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal53-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal54-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal55-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal56-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal57-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal58-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal59-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal6-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal60-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal61-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal62-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal63-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal64-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal65-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal66-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal67-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal68-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal69-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal7-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal70-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal71-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal72-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal73-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal74-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal75-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal76-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal77-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal78-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal79-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal8-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal80-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal81-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal82-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal83-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal84-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal85-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal86-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal87-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal88-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal89-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal9-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal90-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal91-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal92-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal93-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal94-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal95-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal96-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal97-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal98-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/cymbal99-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick0-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick1-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick10-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick11-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick12-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick13-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick14-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick15-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick16-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick17-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick18-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick19-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick2-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick20-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick21-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick22-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick23-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick24-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick25-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick26-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick27-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick28-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick29-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick3-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick30-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick31-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick32-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick33-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick34-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick35-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick36-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick37-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick38-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick39-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick4-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick40-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick41-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick42-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick43-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick44-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick45-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick46-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick47-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick48-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick49-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick5-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick50-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick51-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick52-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick53-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick54-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick55-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick56-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick57-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick58-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick59-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick6-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick60-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick61-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick62-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick63-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick64-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick65-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick66-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick67-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick68-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick69-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick7-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick70-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick71-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick72-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick73-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick74-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick75-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick76-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick77-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick78-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick79-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick8-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick80-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick81-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick82-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick83-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick84-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick85-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick86-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick87-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick88-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick89-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick9-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick90-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick91-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/kick92-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare0-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare1-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare10-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare11-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare12-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare13-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare14-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare15-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare16-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare17-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare18-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare19-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare2-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare20-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare21-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare22-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare23-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare24-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare25-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare26-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare27-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare29-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare3-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare30-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare31-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare32-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare33-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare34-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare35-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare36-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare37-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare38-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare39-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare4-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare40-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare41-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare42-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare43-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare44-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare45-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare46-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare47-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare48-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare49-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare5-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare50-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare51-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare52-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare53-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare54-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare55-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare56-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare57-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare58-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare59-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare6-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare60-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare61-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare62-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare63-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare64-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare65-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare66-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare67-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare68-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare69-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare7-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare70-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare71-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare72-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare73-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare74-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare75-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare76-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare77-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare78-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare79-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare8-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare80-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/practice stuff/sound_data/train/snare9-3.wav</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap0-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap1-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap10-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap100-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap101-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap102-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap103-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap104-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap105-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap106-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap107-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap108-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap109-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap11-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap110-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap111-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap112-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap113-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap114-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap115-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap116-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap117-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap118-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap119-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap12-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap120-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap121-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap122-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap123-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap124-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap125-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap126-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap127-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap128-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap129-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap13-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap130-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap131-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap132-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap133-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap134-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap135-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap136-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap137-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap138-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap139-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap14-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap140-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap141-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap142-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap143-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap144-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap145-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap146-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap147-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap148-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap149-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap15-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap150-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap151-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap152-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap153-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap154-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap155-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap156-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap157-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap158-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap159-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap16-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap160-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap161-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap162-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap163-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap164-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap165-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap166-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap167-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap168-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap169-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap17-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap170-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap171-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap172-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap173-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap174-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap175-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap176-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap177-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap18-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap19-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap2-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap20-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap21-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap22-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap23-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap24-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap25-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap26-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap27-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap28-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap29-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap3-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap30-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap31-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap32-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap33-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap34-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap35-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap36-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap37-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap38-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap39-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap4-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap40-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap41-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap42-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap43-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap44-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap45-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap46-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap47-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap48-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap49-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap5-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap50-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap51-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap52-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap53-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap54-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap55-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap56-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap57-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap58-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap59-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap6-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap60-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap61-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap62-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap63-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap64-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap65-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap66-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap67-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap68-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap69-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap7-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap70-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap71-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap72-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap73-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap74-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap75-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap76-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap77-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap78-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap79-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap8-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap80-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap81-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap82-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap83-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap84-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap85-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap86-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap87-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap88-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap89-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap9-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap90-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap91-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap92-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap93-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap94-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap95-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap96-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap97-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap98-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_claps/clap99-1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal0-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal1-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal10-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal100-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal101-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal102-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal103-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal104-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal105-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal106-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal107-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal108-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal109-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal11-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal110-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal111-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal112-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal113-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal114-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal115-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal116-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal117-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal118-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal119-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal12-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal120-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal121-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal122-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal123-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal124-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal125-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal126-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal127-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal128-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal129-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal13-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal130-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal131-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal132-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal133-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal134-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal135-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal136-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal137-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal138-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal139-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal14-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal140-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal141-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal142-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal143-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal144-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal145-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal146-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal15-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal16-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal17-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal18-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal19-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal2-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal20-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal21-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal22-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal23-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal24-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal25-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal26-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal27-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal28-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal29-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal3-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal30-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal31-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal32-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal33-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal34-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal35-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal36-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal37-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal38-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal39-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal4-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal40-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal41-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal42-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal43-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal44-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal45-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal46-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal47-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal48-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal49-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal5-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal50-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal51-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal52-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal53-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal54-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal55-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal56-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal57-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal58-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal59-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal6-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal60-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal61-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal62-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal63-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal64-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal65-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal66-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal67-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal68-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal69-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal7-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal70-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal71-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal72-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal73-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal74-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal75-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal76-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal77-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal78-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal79-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal8-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal80-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal81-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal82-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal83-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal84-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal85-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal86-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal87-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal88-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal89-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal9-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal90-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal91-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal92-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal93-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal94-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal95-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal96-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal97-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal98-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_cymbals/cymbal99-4.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick0-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick1-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick10-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick100-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick101-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick102-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick103-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick104-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick105-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick106-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick107-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick108-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick109-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick11-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick110-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick111-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick112-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick113-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick114-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick115-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick116-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick117-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick118-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick119-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick12-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick120-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick121-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick122-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick123-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick124-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick125-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick126-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick13-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick14-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick15-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick16-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick17-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick18-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick19-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick2-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick20-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick21-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick22-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick23-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick24-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick25-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick26-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick27-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick28-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick29-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick3-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick30-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick31-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick32-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick33-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick34-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick35-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick36-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick37-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick38-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick39-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick4-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick40-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick41-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick42-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick43-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick44-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick45-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick46-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick47-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick48-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick49-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick5-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick50-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick51-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick52-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick53-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick54-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick55-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick56-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick57-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick58-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick59-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick6-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick60-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick61-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick62-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick63-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick64-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick65-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick66-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick67-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick68-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick69-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick7-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick70-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick71-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick72-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick73-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick74-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick75-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick76-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick77-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick78-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick79-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick8-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick80-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick81-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick82-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick83-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick84-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick85-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick86-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick87-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick88-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick89-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick9-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick90-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick91-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick92-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick93-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick94-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick95-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick96-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick97-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick98-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_kicks/kick99-2.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare0-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare1-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare10-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare100-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare101-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare102-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare103-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare104-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare105-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare106-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare107-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare108-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare109-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare11-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare110-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare111-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare112-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare113-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare114-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare115-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare116-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare117-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare118-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare119-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare12-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare120-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare121-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare122-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare123-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare13-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare14-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare15-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare16-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare17-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare18-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare19-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare2-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare20-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare21-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare22-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare23-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare24-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare25-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare26-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare27-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare28-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare29-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare3-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare30-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare31-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare32-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare33-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare34-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare35-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare36-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare37-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare38-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare39-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare4-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare40-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare41-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare42-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare43-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare44-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare45-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare46-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare47-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare48-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare49-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare5-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare50-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare51-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare52-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare53-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare54-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare55-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare56-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare57-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare58-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare59-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare6-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare60-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare61-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare62-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare63-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare64-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare65-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare66-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare67-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare68-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare69-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare7-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare70-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare71-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare72-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare73-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare74-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare75-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare76-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare77-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare78-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare79-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare8-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare80-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare81-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare82-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare83-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare84-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare85-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare86-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare87-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare88-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare89-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare9-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare90-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare91-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare92-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare93-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare94-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare95-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare96-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare97-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare98-3.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/train_snares/snare99-3.wav</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -952,7 +1772,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511820834264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated drum names with enumeration">
+      <created>1511821020510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511821020511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1066,7 +1893,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="48" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1223,18 +2052,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice stuff/spectralCentroids.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice stuff/SoundAnalysisGUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -1244,7 +2065,7 @@
     <entry file="file://$PROJECT_DIR$/practice stuff/vocalSeperation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
@@ -1262,7 +2083,7 @@
     <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/SnareList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="37" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -1272,7 +2093,7 @@
     <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/KickList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2120">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -1300,18 +2121,28 @@
     <entry file="file://$PROJECT_DIR$/practice stuff/featureExtracter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice stuff/spectralCentroids.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice stuff/DrumLists/ClapList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="479">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
